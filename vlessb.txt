@@ -1,0 +1,14 @@
+vless=69.63.208.195:443,method=none,password=e323e21f-f993-4ad0-872c-d590a0d6e448,obfs=over-tls,tls-verification=true,tls-host=one-piece.com,vless-flow=xtls-rprx-vision,udp-relay=true,tag=🇺🇸 USA-DIRECT-DMIT,reality-base64-pubkey=CQd_E7CIk5_q8qs3mleELkhyfMdZVzEm_SKP5RvJFUI,reality-hex-shortid=bda6aef6
+vless=usdmiteb.misaka19090.cn:443,method=none,password=e323e21f-f993-4ad0-872c-d590a0d6e448,obfs=over-tls,tls-verification=true,tls-host=www.lovelive-anime.jp,vless-flow=xtls-rprx-vision,udp-relay=true,tag=🇯🇵 JP-DIRECT-Misaka,reality-base64-pubkey=fn1Au7GqPRD59SfCI65eSEs8vEvBLAo4oqRCrrL86gg,reality-hex-shortid=e7cf1540
+vless=rfccohk.misaka19090.cn:8080,method=none,password=e323e21f-f993-4ad0-872c-d590a0d6e448,obfs=over-tls,tls-verification=true,tls-host=www.python.org,vless-flow=xtls-rprx-vision,udp-relay=true,tag=🇭🇰 HK-DIRECT-DMIT,reality-base64-pubkey=Y88e5srw0PoeUSNWZYzjelK-kVf81aaIiVygiH6HCjM,reality-hex-shortid=4c359334
+🇭🇰 HK-Aliyun-DMIT = ss, jkhbytr766b75rvv56ry.misaka19090.cn, 39540, encrypt-method=2022-blake3-aes-128-gcm, password="NWVhM2MxZDJlMTJjYTM2Nw==:ZTMyM2UyMWYtZjk5My00YQ==", udp-relay=true
+🇭🇰 HK-Aliyun-Miku = ss, jkhbytr766b75rvv56ry.misaka19090.cn, 39545, encrypt-method=2022-blake3-aes-128-gcm, password="MDczNzU5ODBjYjNkNTQ5Ng==:ZTMyM2UyMWYtZjk5My00YQ==", udp-relay=true
+🇸🇬 SG-Aliyun-DMIT = ss, jkhbytr766b75rvv56ry.misaka19090.cn, 39574, encrypt-method=2022-blake3-aes-128-gcm, password="ODVhMWIzMmY4ODFlZWQ5Ng==:ZTMyM2UyMWYtZjk5My00YQ==", udp-relay=true
+🇭🇰 HK-UC-Misaka = trojan, oss-cn-guangzhou.solidigm-asdf.com, 20004, password=E3D20E1B-1A77-2F1D-CAB8-80E90754C669, block-quic=on, skip-cert-verify=true, sni=mpvideo.qpic.cn
+🇨🇳 TW-UC-Misaka = trojan, oss-cn-guangzhou.solidigm-asdf.com, 20013, password=E3D20E1B-1A77-2F1D-CAB8-80E90754C669, skip-cert-verify=true, sni=mpvideo.qpic.cn
+🇸🇬 SG-UC-Misaka = trojan, oss-cn-guangzhou.solidigm-asdf.com, 20028, password=E3D20E1B-1A77-2F1D-CAB8-80E90754C669, skip-cert-verify=true, sni=mpvideo.qpic.cn
+🇯🇵 JP-CN2GIA-Misaka = trojan, oss-cn-shanghai.solidigm-asdf.com, 20032, password=E3D20E1B-1A77-2F1D-CAB8-80E90754C669, skip-cert-verify=true, sni=mpvideo.qpic.cn
+🇺🇸 LA-CN2GIA-DMIT = trojan, oss-cn-shanghai.solidigm-asdf.com, 20041, password=E3D20E1B-1A77-2F1D-CAB8-80E90754C669, skip-cert-verify=true, sni=mpvideo.qpic.cn
+🇭🇰 HK-BGP-Misaka = ss, oss.aliyuncs.waf.sh.zmsw1.kunlunaqx.com, 36116, encrypt-method=aes-256-gcm, password=3284d5f6-02a9-4e4f-9362-3f7d7d04bce4, udp-relay=true
+🇲🇴 MO-BGP-CTM = ss, oss.aliyuncs.waf.sh.zmsw1.kunlunaqx.com, 36132, encrypt-method=chacha20-ietf-poly1305, password=3284d5f6-02a9-4e4f-9362-3f7d7d04bce4, udp-relay=true
+🇸🇬 SG-BGP-DMIT = ss, oss.aliyuncs.waf.hz.zn2xw.kunlunaqx.com, 36105, encrypt-method=aes-256-gcm, password=3284d5f6-02a9-4e4f-9362-3f7d7d04bce4, udp-relay=true
